@@ -4,8 +4,8 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing:border box;
-    font-family: 'Outfit'
+    box-sizing:border-box;
+    font-family: 'Outfit';
 }
 :root{
    /* ## Colors */
@@ -24,7 +24,7 @@ body{
 }
 section{
     background: var(--white);
-    width: 300px;
+    width: 345px;
     padding: 15px;
     border-radius: 15px;
     font-size:15px;
